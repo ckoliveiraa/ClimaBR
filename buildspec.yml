@@ -23,7 +23,7 @@ phases:
       - echo "Gerando profiles.yml para produção"
       - |
         cat > ~/.dbt/profiles.yml <<EOF
-        ClimaBR:
+        climabr:
           target: prod
           outputs:
             prod:
