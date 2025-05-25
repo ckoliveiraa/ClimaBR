@@ -124,6 +124,7 @@ macros/
 ├── generate_schema_name.sql      # Geração dinâmica de nomes de schema
 ├── schema.yml                    # Definições e descrições das macros
 ```
+OBS.: Maiores detalhes na documentação dbt
 
 ## 👤 Autor
 
